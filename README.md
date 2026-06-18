@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Eser%20Kasımfırtına&fontAlign=50&fontAlignY=40&color=gradient" width="100%" />
+
+
 # Hi there, I'm Eser 👋
 
 🎓 Software Engineering Student
