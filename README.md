@@ -48,6 +48,13 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge\&logo=unrealengine\&logoColor=white)
 
 
+## 📊 GitHub Stats
+
+![Eser's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eser6161\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eser6161\&layout=compact\&theme=tokyonight)
+
+
 📫 Connect with Me
 
 * GitHub: @Eser6161
