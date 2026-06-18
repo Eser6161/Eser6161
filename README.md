@@ -41,6 +41,11 @@
 * Unreal Engine Projects
 
 
+📫 Connect with Me
+
+* GitHub: @Eser6161
+
+
 ## 🛠️ Technologies
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
@@ -58,11 +63,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eser6161\&layout=compact\&theme=tokyonight)
 
 
-📫 Connect with Me
 
-* GitHub: @Eser6161
 
-* ## 👀 Profile Views
+## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=Eser6161\&style=for-the-badge)
 
