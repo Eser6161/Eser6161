@@ -61,4 +61,8 @@
 📫 Connect with Me
 
 * GitHub: @Eser6161
-* 
+
+* ## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Eser6161\&style=for-the-badge)
+
